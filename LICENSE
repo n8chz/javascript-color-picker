@@ -1,24 +1,66 @@
-This is free and unencumbered software released into the public domain.
 
-Anyone is free to copy, modify, publish, use, compile, sell, or
-distribute this software, either in source code form or as a compiled
-binary, for any purpose, commercial or non-commercial, and by any
-means.
+Cypherpunks anti-License
 
-In jurisdictions that recognize copyright laws, the author or authors
-of this software dedicate any and all copyright interest in the
-software to the public domain. We make this dedication for the benefit
-of the public at large and to the detriment of our heirs and
-successors. We intend this dedication to be an overt act of
-relinquishment in perpetuity of all present and future rights to this
-software under copyright law.
+Intent
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
-OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
-ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
-OTHER DEALINGS IN THE SOFTWARE.
+The intent of the Cypherpunks anti-License (CPL) is to inform users that they are free to use and redistribute the indicated work or any derived
+or modified work in any manner they choose. Works distributed under the CPL are in the Public Domain.
 
-For more information, please refer to <http://unlicense.org>
+Licensing
+
+The CPL is not a license, it does not require the user to do or not do anything; the user does not agree to any terms, because there are no
+terms, and the user does not need to do anything to indicate acceptance or rejection of the CPL.
+
+Non Litigation
+
+The CPL serves to pledge to the user that the distributors will behave in a manner consistent with the non-existance of Intellectual Property
+(IP) laws as far as they are able. The distributors will not use or participate as far as they are able to government legal systems to attempt
+to enforce requests restricting the use, modifications, or redistribution of the work for perpetuity. The distributor may prefer to be anonymous
+to preclude attempts to coerce them into enforcing IP laws relating to this work against their will.
+
+Requests
+
+The work may be distributed with some distributor requests in addition to the CPL. The distributor pledges similarly to not attempt to use IP
+laws to enforce these requests.
+
+Redistribution
+
+Users choosing to redistribute this work may change anything about the work, including distributing it under a different license, and adding or
+removing previous distributors requests.
+
+Interpretation
+
+The CPL is completely liberal. Here are some examples of implications of this which are not true for many licenses. The user can redistribute
+the work or a derived or modified work
+
+    under a different license of their choosing
+    with or without source code as they choose
+    without acknowledging the distributors or authors
+    with false or innaccurate claims about authorship of the work
+    advertise without acknowledging the authors 
+
+Requests can be arbitrary, but are requests only. Example of requests that the distributor may choose to make:
+
+    that improvements to the work be drawn to the distributors attention
+    that improvements to the work be released back to the distributor under the CPL
+    that the distributors name not be used to advertise derived works without the distributors approval 
+
+Legacy Considerations
+
+The distributor may choose to inform the user of his opinion of the IP status of the work, for example by identifying any IP law restricted
+aspects such as the copyright holders of parts or the whole of the work, trademark owners of trademarks used in the work, potentially applicable
+patents on algorithms or ideas contained in the work, but the distributor is not obliged to do so and takes no responsibility for the accuracy
+of such information.
+
+Background
+
+The CPL is written from a mindset which derides the very concept of Intellectual Property restrictions as being incompatible with a free
+society.
+
+Cryptographically assured anonymity and anonymous use of Internet resources mean that denizens of cypherspace can ignore copyright, licenses
+attempting to control use and distribution of works, and patents on ideas. It is not possible to enforce IP laws by calls to government legal
+systems when the flaunter is strongly anonymous.
+
+The enforcement of IP law and anonymity are in direct conflict. To fully enforce IP laws, anonymity would have to be outlawed. Cypherpunks
+believe this would be a bad thing, because control of information imparts power, and anonymity gives individuals control over disclosure of
+information about themselves and their actions. 
