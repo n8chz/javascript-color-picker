@@ -34,34 +34,34 @@
    <input min="0" max="100" step="1" id="level" name="which" type="range"
    value="100" onChange="colorPicker.setIntensity()" />
    <fieldset>
-    <label for="domain">Set color of:</label>
+    <legend>Set color of:</legend>
     <label for="color">text</label>
     <input type="radio" name="domain" id="color"
     onChange="colorPicker.setDomain()" />
     <label for="background">background</label>
     <input type="radio" name="domain" id="background"
-    onChange="colorPicker.setDomain()" checked="true" />
+    onChange="colorPicker.setDomain()" checked />
    </fieldset>
    <fieldset>
-    <label for="which">Hold which channel constant?</label>
+    <legend>Hold which channel constant?</legend>
     <label for="channel0" id="label0">hue</label>
     <input type="radio" name="which" id="channel0" value="0"
     onChange="colorPicker.setChannel()" />
     <label for="channel1" id="label1">saturation</label>
     <input type="radio" name="which" id="channel1" value="1"
-    onChange="colorPicker.setChannel()" checked="true" />
+    onChange="colorPicker.setChannel()" checked />
     <label for="channel2"  id="label2">luminance</label>
     <input type="radio" name="which" id="channel2" value="2"
     onChange="colorPicker.setChannel()" />
    </fieldset>
    <fieldset>
-    <label for="mode">Color representation mode:</label>
+    <legend>Color representation mode:</legend>
     <label for="rgb">rgb</label>
     <input name="mode" id="rgb" value="rgb" type="radio"
     onChange="colorPicker.setMode()" />
     <label for="hsl">hsl</label>
     <input name="mode" id="hsl" value="hsl" type="radio"
-    onChange="colorPicker.setMode()" checked="true" />
+    onChange="colorPicker.setMode()" checked />
    </fieldset>
   </form>
  </div>
